@@ -1,2 +1,3 @@
 # aplicacodigo
-Um repository destinado a postar as criações feitas com base em Javascript e/ou usando o p5.js
+
+É com imenso prazer que recebo-os(as) aqui em meu "local de trabalho" com códigos.
